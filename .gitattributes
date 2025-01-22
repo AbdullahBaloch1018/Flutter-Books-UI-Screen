@@ -1,1 +1,4 @@
 *.dart linguist-language=Dart
+/build/* linguist-generated=true
+/ios/* linguist-generated=true
+/android/* linguist-generated=true
